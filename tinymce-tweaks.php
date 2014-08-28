@@ -56,6 +56,7 @@ add_filter('mce_buttons_4', 'add_mce_buttons_row_4' );
 
 /**
  * Make changes to the dropdown menus
+ * Other misc customizations
  */
 function change_mce_dropdown( $initArray ) {
 
