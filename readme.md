@@ -8,3 +8,5 @@ TinyMCE Tweaks
  - Make changes to the dropdown menus
  - TinyMCE plugin demo
  - Other misc customizations
+ 
+![screenshot](screenshot.png)
