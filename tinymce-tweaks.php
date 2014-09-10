@@ -1,6 +1,6 @@
 <?php
 //Plugin Name: TinyMCE Toolbar Tweaks
-return;
+
 /**
  * Insert Page-Break button after More button
  */
