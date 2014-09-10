@@ -6,7 +6,7 @@ TinyMCE Tweaks
  - Insert buttons into the third row (row empty by default)
  - Insert buttons into the fourth row (row empty by default)
  - Make changes to the dropdown menus
- - TinyMCE plugin demo
+ - TinyMCE plugin demo (button and dropdown)
  - Other misc customizations
  
 ![screenshot](screenshot.png)
